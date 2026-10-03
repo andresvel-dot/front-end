@@ -1,0 +1,41 @@
+FUNCIONALIDAD
+Como funciona JavaScript para que la pagina funcione
+css se puede utilizar en un archivo aparte
+tailwind
+java es mas seguro, a nivel empresarial
+if, else
+Voluntario
+cada uno crea un repositorio
+desafíos independiente-fecha
+Esto favorece su nota, conocimiento y producto.
+proyecto personal 
+El primer entregable es individual
+
+Introducción a JavaScript:
+Tipo de dato:
+Number
+String
+Variables en JavaScript
+let
+var
+const
+Consola de JavaScript
+Operadores aritméticos, operadores lógicos y unarios.
+maquinas necesitan el paso a paso: entrada, proceso y salida.
+java: string nombre   JavaScript: let nombre = "nolan";
+java: int edad        JavaScript: let edad = 26;
+java: doublé precio   JavaScript: let precio = 26,5;
+java: mayuscula la constante JavaScript: const MAYUSCULA = 0.19;
+scope: global o local. 
+local = nace y muere hay mismo. 
+global= nace afuera y se puede utilizar para todo el programa.
+
+EMPEZAR A PRIORIZAR ESTE TIPO DE IMPRIMIR...
+console.log(`La suma es: ${suma} esa fue`);: Siempre se le debe colocar el signo pesos para poder llamar el resultado, y que este aparezca en pantalla
+
+
+
+
+
+
+

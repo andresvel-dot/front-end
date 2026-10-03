@@ -1,0 +1,6 @@
+Desestructuración de un objeto
+
+desestructuración de arreglo
+
+Spring operator [...]
+

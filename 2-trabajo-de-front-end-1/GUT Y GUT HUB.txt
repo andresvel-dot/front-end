@@ -1,0 +1,27 @@
+GUT Y GUT HUB
+
+pull y fecht: tengo que hacer un fectch para ver que es lo que esta haciendo
+
+fork
+
+clonar 
+
+crear
+
+CI/CD
+
+CD = terminales
+CI = despliegues
+
+git merge
+
+git ignore
+
+
+
+
+
+
+
+
+
